@@ -1,1 +1,7 @@
-# Publications
+# Journal and Conference papers in Machine Learning/Deep Learning
+
+
+* <b>Vasileios-Marios Gkortsas</b>, Lin Liang, Yngve Bolstad Johansen, Lalitha Venkataramanan and Harish Datir, [Automatic facies classification from well logs](https://onepetro.org/SPWLAALS/proceedings-abstract/SPWLA20/36-SPWLA20/D363S022R003/445742), Society of Petrophysicists and Well Log Analysts (SPWLA) 61st Annual Logging Symposium, SPWLA-5075 (2020)
+* Ravinath Kausik, Augustin Prado, <b>Vasileios-Marios Gkortsas</b>, Lalitha Venkataramanan, Harish Datir and Yngve Bolstad Johansen, [Dual network architecture for determining permeability and associated uncertainty](https://onepetro.org/SPWLAALS/proceedings-abstract/SPWLA20/36-SPWLA20/D363S022R001/445773), Society of Petrophysicists and Well Log Analysts (SPWLA) 61st Annual Logging Symposium, SPWLA-5073 (2020)
+* <b>Vasileios-Marios Gkortsas</b> and Lin Liang, [Automatic electrofacies classification from well logs](https://library.seg.org/doi/abs/10.1190/segam2019-3215864.1), 89th Society of Exploration Geophysicists (SEG) International Exposition and Annual Meeting, SEG Technical Program Expanded Abstracts, 2629-2633 (2019)
+* <b>Vasileios-Marios Gkortsas</b>, Sandip Bose and Smaine Zeroug, [Machine Learning for the Automated Detection of Diagnosis-revealing Features on Leaky Flexural Wave Imager Data](https://aip.scitation.org/doi/pdf/10.1063/1.5099774), 45th Annual Review of Progress in Quantitative Nondestructive Evaluation, AIP Conference Proceedings, 2102, 050008 (2019) 
